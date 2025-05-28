@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Maras (aka Majonez)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majonezowy&label=Profile%20views&color=0e75b6&style=flat" alt="majonezowy" /> </p>
 
-- 🔭 I’m currently working on [Biblioteka szkolna](https://github.com/Majonezowy/Biblioteka-szkolna)
+- 🔭 I’m currently working on [Nothing :(](#)
 
 - 🌱 I’m currently learning **PHP, React, JavaScript**
 
